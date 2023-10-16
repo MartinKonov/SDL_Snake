@@ -1,9 +1,8 @@
-//#include <SDL.h>
 #include <cstdlib>
 #include <iostream>
 #include <vector>
 #include"Snake.h"
-//#include "LinkedList.h"
+
 using std::cerr;
 using std::endl;
 
